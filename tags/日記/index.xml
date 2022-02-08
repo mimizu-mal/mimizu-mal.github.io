@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日記 on 繭の中の楽園</title>
+    <link>/tags/%E6%97%A5%E8%A8%98/</link>
+    <description>Recent content in 日記 on 繭の中の楽園</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 08 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%E6%97%A5%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HP開設</title>
+      <link>/posts/2022-02-08/</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2022-02-08/</guid>
+      <description>サイト、というかブログを作ってみました。
+このサイトはHugoという、平たくは凝ったHTMLサイトを効率的に生成できる仕組み（静的サイトジェネレータ）を用いてつくっています。わざわざ静的サイトジェネレータを使ってGitHub Pagesでホストするというのは、インターネットに一般人が文書を上げるにしては多少回りくどい選択かと思います。
+あまり深い理由もなく、既存のブログサービスやnote等に足りない機能があるというわけでもないのですが、何となく商業的になりうるプラットフォームとは若干距離を置きたいと思った、というのが一番の理由です。
+別にTwitterアカウントを持っているのですが、フォロー数が200を超えたくらいからそちらも息苦しく、というか最近他の人のいいねや話題などがかなり目に入るようになり自分としては食傷気味です。呟くことが仕事である人すらいて、商業的な資本が投下されているアカウントに個人（自分も気になる他人も）が飲み込まれていくのはちょっと……、という感じです。これはTwitterに限った話ではなく、そのためnoteなども敬遠してしまいました。もっと小規模にゆるゆる意識低くやっていきたい…
+何の落ちもありませんが、ひとまず続けることが重要と思うので、こんな感じでよしなしごとをかければと思っています。
+よろしくおねがいします。</description>
+    </item>
+    
+  </channel>
+</rss>
